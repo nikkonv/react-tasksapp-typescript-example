@@ -37,3 +37,6 @@ button:hover {
 h4 {
   color: white;
 }
+section {
+  flex-direction: column-reverse;
+}

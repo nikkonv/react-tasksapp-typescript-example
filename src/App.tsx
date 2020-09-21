@@ -22,7 +22,7 @@ function App(): JSX.Element {
   };
 
   const addTask = (name: string): void => {
-    const newTasks = [...taskList, { name, done: false }];
+    const newTasks = [{ name, done: false }, ...taskList];
     setTaskList(newTasks);
   };
 
