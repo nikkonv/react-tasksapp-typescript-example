@@ -1,4 +1,4 @@
-##Simple TODO app with ReactJS using TypeScript as example usecase, it was used useState, useRef
+## Simple TODO app with ReactJS using TypeScript as example usecase, it was used useState, useRef
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
